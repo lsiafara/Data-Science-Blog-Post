@@ -25,11 +25,11 @@ For this project, I am using the [Stack Overflow survey data - 2020](https://ins
 ## File Descriptions <a name="files"></a>
 
 There is 1 notebook with the code used to answer the above questions.
-There is an additional `.py` file that runs the necessary code to obtain the results.
+There is an additional `.py` file that contains the helper functions to obtain the results.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@lydia.siafara/3-tips-to-level-up-your-career-as-developer-and-increase-your-career-satisfaction-595fc39afbd0).
+The main findings of the code can be found at the post available [here](https://medium.com/@lydia.siafara/3-ways-to-level-up-your-career-as-developer-and-increase-your-job-satisfaction-595fc39afbd0).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
