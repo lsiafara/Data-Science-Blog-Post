@@ -25,7 +25,7 @@ For this project, I am using the [Stack Overflow survey data - 2020](https://ins
 ## File Descriptions <a name="files"></a>
 
 There is 1 notebook with the code used to answer the above questions.
-There is an additional `.py` file that contains the helper functions to obtain the results.
+There is 3 additional `.py` file that contains the helper functions to obtain the results.
 
 ## Results<a name="results"></a>
 
